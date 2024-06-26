@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Tue Dec  5 00:48:13 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : Control_Unit
+Top-level Entity Name : Control_Unit
+Family : MAX 10
+Total logic elements : 55
+    Total combinational functions : 53
+    Dedicated logic registers : 35
+Total registers : 35
+Total pins : 12
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
