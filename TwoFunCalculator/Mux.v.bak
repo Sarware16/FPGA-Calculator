@@ -1,0 +1,9 @@
+module Mux(
+	input [7:0] keypad_input,
+	input IUAU,
+	input [7:0] result,
+	output [7:0] OUnum
+
+);
+
+	
